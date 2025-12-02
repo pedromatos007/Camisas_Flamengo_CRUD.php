@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: red;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+td, th {
+    padding: 10px;
+    text-align: center;
+}
+
+.btn {
+    padding: 10px;
+    background: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+form input {
+    margin-bottom: 10px;
+    padding: 7px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 15px;
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
